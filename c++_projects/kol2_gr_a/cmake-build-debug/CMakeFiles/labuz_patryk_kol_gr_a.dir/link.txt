@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/labuz_patryk_kol_gr_a.dir/main.cpp.o  -o labuz_patryk_kol_gr_a 

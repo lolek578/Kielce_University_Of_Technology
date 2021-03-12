@@ -1,0 +1,3 @@
+/home/world_edit/projects/technical_university/c_projects/test_exam_gr_a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/world_edit/projects/technical_university/c_projects/test_exam_gr_a/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/world_edit/projects/technical_university/c_projects/test_exam_gr_a/cmake-build-debug/CMakeFiles/test_exam_gr_a.dir
